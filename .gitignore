@@ -1,0 +1,25 @@
+# Xcode
+.DS_Store
+*.swp
+*~.nib
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+timeline.xctimeline
+playground.xcworkspace
+
+# User-specific
+*.xcworkspace
+!default.xcworkspace
+xcshareddata/
